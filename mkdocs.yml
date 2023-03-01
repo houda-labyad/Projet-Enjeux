@@ -1,18 +1,18 @@
 # Project information
 site_name: Reciprocal n-body Collision Avoidance
-site_author: Abdellatif BELMADY
-edit_uri: https://github.com/abdellatif-belmady/R-Project/tree/main/docs
+site_author: Houda LABYAD
+edit_uri: https://github.com/houda-labyad/Projet-Enjeux/tree/main/docs
 site_description: >-
   Pour acquérir un sens de la pratique, et s’ouvrir à l’environnement professionnel, nous sommes amenés à rédiger une note de synthèse de notre traitement du Heetch dataset incluant la démarche, les principaux résultats et les conclusions.
   Dans ce cadre-là, vient ce rapport auquel nous allons synthétiser le travail fait.
 
 
 # Repository
-repo_name: abdellatif-belmady/Reciprocal-n-body-Collision-Avoidance
-repo_url: https://github.com/abdellatif-belmady/Reciprocal-n-body-Collision-Avoidance
+repo_name: houda-labyad/Projet-Enjeux
+repo_url: https://github.com/houda-labyad/Projet-Enjeux
 
 # Copyright
-copyright: Copyright &copy; 2022 - 2023 Abdellatif BELMADY
+copyright: Copyright &copy; 2022 - 2023 Houda LABYAD
 
 # Configuration
 theme:
